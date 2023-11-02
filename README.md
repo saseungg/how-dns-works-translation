@@ -5,5 +5,5 @@
 </div>
 
 <div align="center">
-  <a href="https://howdns.works/">만화 보러가기</a>
+  <a href="https://howdns.works/ko/">만화 보러가기</a>
 </div>
